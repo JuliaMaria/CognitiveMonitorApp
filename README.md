@@ -25,4 +25,5 @@ Pozostałe funkcje, które powinny znaleźć się w aplikacji to, między innymi
 - możliwość wysyłania podsumowań wyników gier na adres email lekarza i bliskiej osoby
 - dostosowywanie wyglądu interfejsu użytkownika w zależności od wieku osoby (duże litery i większy kontrast kolorystyczny dla osób starszych, standardowy interfejs dla osób młodszych)
 - dodanie tutorialu pokazującego sposób korzystania z aplikacji
+- dodanie obsługi błędów w kodzie wywołanych błędnymi danymi wprowadzonymi przez użytkownika oraz poprawa bezpieczeństwa aplikacji (na przykład mechanizmu logowania i przechowywania haseł)
 
