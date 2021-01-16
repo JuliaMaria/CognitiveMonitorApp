@@ -21,6 +21,7 @@ Pozostałe funkcje, które powinny znaleźć się w aplikacji to, między innymi
 
 - rejestracja nowych użytkowników (na razie można logować się tylko jako użytkownik testowy)
 - możliwość zmiany emaila/numeru telefonu oraz hasła użytkownika
+- możliwość tworzenia bardziej szczegółowych podsumowań wyników uzyskanych w grach (na razie wyświetlane są tylko w formie wykresu zmian uzyskanej punktacji w czasie)
 - możliwość wysyłania podsumowań wyników gier na adres email lekarza i bliskiej osoby
 - dostosowywanie wyglądu interfejsu użytkownika w zależności od wieku osoby (duże litery i większy kontrast kolorystyczny dla osób starszych, standardowy interfejs dla osób młodszych)
 
